@@ -142,8 +142,8 @@ npm start
 
 Developed collaboratively by a team of two.
 
-- **Contributor 1:** [Aryan Kanas]
-- **Contributor 2:** [Harguneet Kaur]
+- **Contributor 1:** Aryan Kanas
+- **Contributor 2:** Harguneet Kaur
 
 ## License
 
